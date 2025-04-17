@@ -1,6 +1,10 @@
 
 ![Screenshot 2024-06-05 082544](https://github.com/hokagelegend9999/alpha/assets/158546743/ee0b4e39-3384-4cb9-bf74-ba72b89a2a43)
 
+
+BACKUP DATA VPS
+https://github.com/hokagelegend9999/alpha/blob/main/1.png?raw=true
+
 ### INSTALL SCRIPT 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha/main/premi.sh && chmod +x premi.sh && ./premi.sh
