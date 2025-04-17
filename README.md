@@ -3,7 +3,8 @@
 
 
 BACKUP DATA VPS
-https://github.com/hokagelegend9999/alpha/blob/main/1.png?raw=true
+<img src="https://github.com/hokagelegend9999/alpha/blob/main/1.png?raw=true" alt="Gambar Tampilan" width="500"/>
+
 
 ### INSTALL SCRIPT 
 ```
