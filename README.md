@@ -1,10 +1,22 @@
 
-<img src="https://github.com/hokagelegend9999/alpha/assets/158546743/ee0b4e39-3384-4cb9-bf74-ba72b89a2a43" alt="Screenshot 2024-06-05 082544" width="500"/>
+## 🚀 TAMPILAN MENU
 
+Tampilan utama dari aplikasi ini dirancang agar mudah digunakan dan responsif, memberikan pengalaman pengguna yang maksimal.
 
+<p align="center">
+  <img src="https://github.com/hokagelegend9999/alpha/assets/158546743/ee0b4e39-3384-4cb9-bf74-ba72b89a2a43" alt="Tampilan Menu" width="600"/>
+</p>
 
-BACKUP DATA VPS
-<img src="https://github.com/hokagelegend9999/alpha/blob/main/1.png?raw=true" alt="Gambar Tampilan" width="500"/>
+---
+
+## 💾 BACKUP DATA VPS
+
+Fitur backup data VPS memungkinkan Anda menyimpan konfigurasi penting dengan mudah dan aman, cukup satu klik!
+
+<p align="center">
+  <img src="https://github.com/hokagelegend9999/alpha/blob/main/1.png?raw=true" alt="Backup Data VPS" width="600"/>
+</p>
+
 
 
 ### INSTALL SCRIPT 
