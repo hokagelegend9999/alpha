@@ -1,5 +1,6 @@
 
-![Screenshot 2024-06-05 082544](https://github.com/hokagelegend9999/alpha/assets/158546743/ee0b4e39-3384-4cb9-bf74-ba72b89a2a43)
+<img src="https://github.com/hokagelegend9999/alpha/assets/158546743/ee0b4e39-3384-4cb9-bf74-ba72b89a2a43" alt="Screenshot 2024-06-05 082544" width="500"/>
+
 
 
 BACKUP DATA VPS
